@@ -1,0 +1,5 @@
+c:\development\trash\SimpleMembership\SimpleMembership\bin\Debug\SimpleMembership.dll
+c:\development\trash\SimpleMembership\SimpleMembership\bin\Debug\SimpleMembership.pdb
+c:\development\trash\SimpleMembership\SimpleMembership\obj\Debug\SimpleMembership.csprojResolveAssemblyReference.cache
+c:\development\trash\SimpleMembership\SimpleMembership\obj\Debug\SimpleMembership.dll
+c:\development\trash\SimpleMembership\SimpleMembership\obj\Debug\SimpleMembership.pdb
